@@ -16,14 +16,4 @@ bibtex citation:  '@article{straughan2023fully,
   publisher={Elsevier}'
 }
 ---
-[Download the paper here](http://kkadry.github.io/files/Fully_Automated_OCT.pdf)
-
-Bibtex: @article{straughan2023fully,
-  title={Fully automated construction of three-dimensional finite element simulations from Optical Coherence Tomography},
-  author={Straughan, Ross and Kadry, Karim and Parikh, Sahil A and Edelman, Elazer R and Nezami, Farhad R},
-  journal={Computers in Biology and Medicine},
-  volume={165},
-  pages={107341},
-  year={2023},
-  publisher={Elsevier}
-}
+[Download the paper here](http://kkadry.github.io/files/Fully_Automated_OCT.pdf).
