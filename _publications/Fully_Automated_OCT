@@ -5,20 +5,9 @@ permalink: /publication/Fully_Automated_OCT
 excerpt: 'We fully automate the process of creating simulation-ready digital twins for coronary artery biomechanics simulations.'
 date: 2023-10-01
 venue: 'Computers in Biology and Medicine'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: '@article{straughan2023fully,
-  title={Fully automated construction of three-dimensional finite element simulations from Optical Coherence Tomography},
-  author={Straughan, Ross and Kadry, Karim and Parikh, Sahil A and Edelman, Elazer R and Nezami, Farhad R},
-  journal={Computers in Biology and Medicine},
-  volume={165},
-  pages={107341},
-  year={2023},
-  publisher={Elsevier}
-}
-'
+paperurl: 'http://kkadry.github.io/files/Fully_Automated_OCT.pdf'
 ---
-
-[Download paper here](http://academicpages.github.io/files/Fully_Automated_OCT.pdf)
+[Download the paper here](http://kkadry.github.io/files/Fully_Automated_OCT.pdf)
 
 Bibtex: @article{straughan2023fully,
   title={Fully automated construction of three-dimensional finite element simulations from Optical Coherence Tomography},
