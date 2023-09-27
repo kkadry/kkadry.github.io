@@ -1,0 +1,9 @@
+---
+title: "Biomechanical root cause analysis of complications in head immobilization devices for pediatric neurosurgery"
+collection: publications
+permalink: /publication/Skull
+excerpt: 'Precise and firm fixation of the cranium is critical during craniotomy and delicate brain neurosurgery making head immobilization devices (HIDs) a staple instrument in brain neurosurgical operations today. However, despite their popularity, there is no standard procedure for their use and many complications arise from using HIDs in pediatric neurosurgery. In this paper, we identify biomechanical causes of complications and quantify risks in pin-type HIDs including clamping force selection, positioning and age effects. Based on our root cause analysis, we develop a framework to address the biomechanical factors that influence complications and understand the biomechanics of the clamping process. We develop an age-dependent finite element model (FEM) of a single pin on a cranial bone disc with the representative properties and skull thickness depending on age. This model can be utilized to reduce risk of complications by design as well as to provide recommendations for current practices.'
+date: 2018-09-01
+venue: 'International Manufacturing Science and Engineering Conference'
+paperurl: 'http://kkadry.github.io/files/skull.pdf'
+---
