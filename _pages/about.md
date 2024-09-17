@@ -74,7 +74,7 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
     </p>
     <p class="journal-year"><em>Royal Society Interface</em>, 2021</p>
     <div class="links">
-      <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">paper</a> 
+      <a href="/files/Platform.pdf">Download Here</a> 
     </div>
     <p>We develop an end-to-end computational pipeline for patient-specific coronary artery biomechanics from intravascular imaging.</p>
   </div>
