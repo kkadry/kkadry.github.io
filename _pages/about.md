@@ -11,6 +11,53 @@ redirect_from:
 I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/), advised by Dr. Elazer Edelman. I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and a dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/). My research involves integrating computational tools into clinical workflows to understand coronary artery disease and guide cardiovascular interventions. To do this, I leverage techniques from computational mechanics, biomedical computer vision, image registration, and generative AI.
 
 
+## Research Projects
+
+<style>
+  .image-text-block {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+
+  .image-text-block img {
+    width: 175px;
+    height: 175px;
+    margin-right: 20px;
+  }
+
+  .image-text-block div {
+    max-width: 600px;
+  }
+
+  .image-text-block p {
+    margin: 0; /* Remove default paragraph margin */
+  }
+
+  .strong-title {
+    font-weight: bold;
+    display: inline; /* Keep title inline */
+  }
+
+  .author-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .author-list a {
+    margin-right: 0px;
+  }
+
+  .journal-year {
+    color: #666;
+    margin-bottom: 0; /* Remove space after the journal */
+  }
+
+  .links {
+    margin-bottom: 10px; /* Remove space before the links */
+  }
+</style>
 
 ### Digital Twinning and Computational Simulation
 
