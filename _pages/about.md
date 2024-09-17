@@ -61,8 +61,6 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
 
 ### Peronsalized Biomechanical Simulations from Patient-Specific Coronary Artery Imaging
 
-
-#### 
 <div class="image-text-block">
   <img src="/assets/img/RSIF.jpg" alt="coronarytwin.html">
   <div>
@@ -84,5 +82,19 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
       <a href="/files/Fully_Automated_OCT.pdf">Download Here</a> 
     </div>
     <p>We automate our previous computational pipeline for patient-specific coronary biomechanics, enabling the scalable execution of high-fidelity biomechanical simulations from large datasets of OCT images.</p>
+  </div>
+</div>
+
+### Automatic Co-Registration Of Multi-Modal Coronary Artery Images For High-Fidelity Coronary Digital Twins.
+
+<div class="image-text-block">
+  <img src="/assets/img/coreg_img.png" alt="morphology_non_rigid_registration.html">
+  <div>
+    <p><strong class="strong-title"><a href="https://arxiv.org/abs/2301.00060">Morphology-based non-rigid registration of coronary computed tomography and intravascular images through virtual catheter path optimization</a></strong></p>
+    <p class="journal-year"><em>Arxiv</em>, 2022. <b>Karim Kadry</b>, Abhishek Karmakar, Andreas Schuh, Kersten Peterson, Michiel Schaap, David Marlevi, Charles Taylor, Elazer Edelman, Farhad Nezami</p>
+    <div class="links">
+      <a href="/files/coreg_paper.pdf">Download Here</a> 
+    </div>
+    <p>We present a morphology-based framework for aligning intravascular and computed tomography (CT) images. This approach combines the high-resolution cross-sectional detail of intravascular imaging with the accurate 3D information from CT scans, enabling the creation of high-fidelity digital twins of coronary arteries.</p>
   </div>
 </div>
