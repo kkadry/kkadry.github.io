@@ -64,9 +64,9 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
 <!-- ### A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control -->
 
 <div class="image-text-block">
+  <p><strong class="strong-title"><a href="https://arxiv.org/abs/2407.15631">A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control</a></strong></p>
   <img src="/assets/img/morphoskel_diffusion.png" alt="diffusion_model.html">
   <div>
-    <p><strong class="strong-title"><a href="https://arxiv.org/abs/2407.15631">A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control</a></strong></p>
     <p class="journal-year"><em>arXiv preprint</em>, 2024. <b>Karim Kadry</b>, Shreya Gupta, Jonas Sogbadji, Michiel Schaap, Kersten Petersen, Takuya Mizukami, Carlos Collet, Farhad R Nezami, Elazer R Edelman</p>
     <div class="links">
       <a href="/files/morphoskel_diffusion.pdf">Download Here</a> 
