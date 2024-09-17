@@ -133,7 +133,7 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
 <!-- ### Biomechanics of Diastolic Dysfunction: A One-Dimensional Computational Modeling Approach -->
 
 <div class="image-text-block">
-  <img src="/assets/img/diastolic_dysfunction.jpg" alt="diastolic_dysfunction.html">
+  <img src="/assets/img/Diastolic_Dysfunction.png" alt="diastolic_dysfunction.html">
   <div>
     <p><strong class="strong-title"><a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">Biomechanics of Diastolic Dysfunction: A One-Dimensional Computational Modeling Approach</a></strong></p>
     <p class="journal-year"><em>American Journal of Physiology-Heart and Circulatory Physiology</em>, 2020. <b>Karim Kadry</b>, Stamatia Pagoulatou, Quentin Mercier, Georgios Rovas, Vasiliki Bikia, Hajo Müller, Dionysios Adamopoulos, Nikolaos Stergiopulos</p>
