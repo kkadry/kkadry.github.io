@@ -14,23 +14,23 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
 ## Research Projects
 
 <style>
-  .image-text-block {
+  .image-text-block-square {
     display: flex;
     align-items: flex-start;
     margin-bottom: 20px;
   }
 
-  .image-text-block img {
+  .image-text-block-square img {
     width: 175px;
-    height: auto;
+    height: 175px;
     margin-right: 20px;
   }
 
-  .image-text-block div {
+  .image-text-block-square div {
     max-width: 600px;
   }
 
-  .image-text-block p {
+  .image-text-block-square p {
     margin: 0; /* Remove default paragraph margin */
   }
 
