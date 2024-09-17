@@ -59,6 +59,37 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
   }
 </style>
 
+
+### Generative Modelling of Anatomic Counterfactuals to Augment Virtual Intervention Frameworks
+### A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control
+
+<div class="image-text-block">
+  <img src="/assets/img/morphoskel_diffusion.png" alt="diffusion_model.html">
+  <div>
+    <p><strong class="strong-title"><a href="https://arxiv.org/abs/2407.15631">A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control</a></strong></p>
+    <p class="journal-year"><em>arXiv preprint</em>, 2024. <b>Karim Kadry</b>, Shreya Gupta, Jonas Sogbadji, Michiel Schaap, Kersten Petersen, Takuya Mizukami, Carlos Collet, Farhad R Nezami, Elazer R Edelman</p>
+    <div class="links">
+      <a href="/files/morphoskel_diffusion.pdf">Download Here</a> 
+    </div>
+    <p>We leverage Latent Diffusion Models (LDMs) to generate realistic coronary artery anatomies for virtual intervention studies. Our approach balances controllability and realism, enabling the creation of anatomies based on topological, morphological, and skeletal constraints. This framework allows for device designers to derive mechanistic insights regarding anatomic variation and simulated device deployment.</p>
+  </div>
+</div>
+
+### Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins
+
+<div class="image-text-block">
+  <img src="/assets/img/diffusion_editing.png" alt="diffusion_editing.html">
+  <div>
+    <p><strong class="strong-title"><a href="https://arxiv.org/abs/2401.00247">Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins</a></strong></p>
+    <p class="journal-year"><em>arXiv preprint</em>, 2023. <b>Karim Kadry</b>, Shreya Gupta, Farhad R Nezami, Elazer R Edelman</p>
+    <div class="links">
+      <a href="/files/diffusion_editing.pdf">Download Here</a> 
+    </div>
+    <p>We explore the use of Latent Diffusion Models (LDMs) to edit digital twins of cardiac anatomy, creating anatomic variants termed digital siblings. These digital siblings enable comparative simulations to study the impact of subtle anatomic variations on cardiovascular device deployment. Our framework demonstrates the potential of LDMs for virtual cohort augmentation and addresses issues related to dataset imbalance and diversity.</p>
+  </div>
+</div>
+
+
 ### Peronsalized Biomechanical Simulations from Patient-Specific Coronary Artery Imaging
 
 <div class="image-text-block">
@@ -74,7 +105,7 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
 </div>
 
 <div class="image-text-block">
-  <img src="/assets/img/CBM.jpg" alt="fully_automated_finite_element.html">
+  <img src="/assets/img/CBM.png" alt="fully_automated_finite_element.html">
   <div>
     <p><strong class="strong-title"><a href="https://www.sciencedirect.com/science/article/pii/S0010482523008901">Fully automated construction of three-dimensional finite element simulations from Optical Coherence Tomography</a></strong></p>
     <p class="journal-year"><em>Computers in Biology and Medicine</em>, 2023. <b>Ross Straughan</b>*, <b>Karim Kadry</b>*, Sahil A Parikh, Elazer R. Edelman, Farhad R. Nezami</p>
