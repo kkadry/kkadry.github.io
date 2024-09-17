@@ -60,8 +60,8 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
 </style>
 
 
-### Generative Modelling of Anatomic Counterfactuals to Augment Virtual Intervention Frameworks
-### A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control
+<!-- ## Generative Modelling of Anatomic Counterfactuals to Augment Virtual Intervention Frameworks -->
+<!-- ### A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control -->
 
 <div class="image-text-block">
   <img src="/assets/img/morphoskel_diffusion.png" alt="diffusion_model.html">
@@ -75,7 +75,7 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
   </div>
 </div>
 
-### Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins
+<!-- ### Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins -->
 
 <div class="image-text-block">
   <img src="/assets/img/diffusion_editing.png" alt="diffusion_editing.html">
@@ -90,7 +90,7 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
 </div>
 
 
-### Peronsalized Biomechanical Simulations from Patient-Specific Coronary Artery Imaging
+<!-- ### Peronsalized Biomechanical Simulations from Patient-Specific Coronary Artery Imaging -->
 
 <div class="image-text-block">
   <img src="/assets/img/RSIF.jpg" alt="coronarytwin.html">
@@ -116,7 +116,7 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
   </div>
 </div>
 
-### Automatic Co-Registration Of Multi-Modal Coronary Artery Images For High-Fidelity Coronary Digital Twins.
+<!-- ### Automatic Co-Registration Of Multi-Modal Coronary Artery Images For High-Fidelity Coronary Digital Twins. -->
 
 <div class="image-text-block">
   <img src="/assets/img/coreg_img.png" alt="morphology_non_rigid_registration.html">
@@ -127,5 +127,19 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
       <a href="/files/coreg_paper.pdf">Download Here</a> 
     </div>
     <p>We present a morphology-based framework for aligning intravascular and computed tomography (CT) images. This approach combines the high-resolution cross-sectional detail of intravascular imaging with the accurate 3D information from CT scans, enabling the creation of high-fidelity digital twins of coronary arteries.</p>
+  </div>
+</div>
+
+<!-- ### Biomechanics of Diastolic Dysfunction: A One-Dimensional Computational Modeling Approach -->
+
+<div class="image-text-block">
+  <img src="/assets/img/diastolic_dysfunction.jpg" alt="diastolic_dysfunction.html">
+  <div>
+    <p><strong class="strong-title"><a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">Biomechanics of Diastolic Dysfunction: A One-Dimensional Computational Modeling Approach</a></strong></p>
+    <p class="journal-year"><em>American Journal of Physiology-Heart and Circulatory Physiology</em>, 2020. <b>Karim Kadry</b>, Stamatia Pagoulatou, Quentin Mercier, Georgios Rovas, Vasiliki Bikia, Hajo Müller, Dionysios Adamopoulos, Nikolaos Stergiopulos</p>
+    <div class="links">
+      <a href="/files/Diastolic_Dysfunction_Modeling.pdf">Download Here</a> 
+    </div>
+    <p>We develop a computational model to study diastolic dysfunction (DD), a key component of heart failure with preserved ejection fraction (HFpEF). Our model integrates a one-dimensional arterial network with a zero-dimensional cardiac model to investigate the active relaxation and passive stiffness of the left ventricular wall. This framework provides insights into the biomechanical mechanisms of DD and HFpEF.</p>
   </div>
 </div>
