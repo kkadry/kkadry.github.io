@@ -15,7 +15,7 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
 ### Digital Twinning and Computational Simulation
 
 <div class="image-text-block">
-  <img src="/assets/img/rsif.jpg" alt="coronarytwin.html">
+  <img src="/assets/img/RSIF.jpg" alt="coronarytwin.html">
   <div>
     <p><strong class="strong-title"><a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">A platform for high-fidelity patient-specific structural modelling of atherosclerotic arteries: from intravascular imaging to three-dimensional stress distributions</a></strong></p>
     <p class="author-list">
