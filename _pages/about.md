@@ -22,7 +22,7 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
 
   .image-text-block img {
     width: 175px;
-    height: 175px;
+    height: auto;
     margin-right: 20px;
   }
 
