@@ -1,0 +1,23 @@
+## Selected Publications ([full list](https://scholar.google.com/citations?user=ecxGghUAAAAJ&hl=en))
+
+<table class="pub_table">
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://arxiv.org/abs/2407.15631">
+                <img class="teaser_img" src="/assets/img/morphoskel_diffusion.png" />
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control</b><br />
+        <div class='paper_metadata'>
+            Karim Kadry, Shreya Gupta, Jonas Sogbadji, Michiel Schaap, Kersten Petersen, Takuya Mizukami, Carlos Collet, Farhad R Nezami, Elazer R Edelman<br />
+            <i>ECCV 2024</i><br />
+        </div>
+        <a href="https://arxiv.org/abs/2407.15631">Paper</a> | <a href="/files/morphoskel_diffusion.pdf">Download Here</a>
+    </td>
+</tr>
+{% include table-space.html %}
+
+</table>
