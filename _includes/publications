@@ -20,4 +20,93 @@
 </tr>
 {% include table-space.html %}
 
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://arxiv.org/abs/2401.00247">
+                <img class="teaser_img" src="/assets/img/diffusion_editing.png" alt="diffusion_editing.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins</b><br />
+        <div class='paper_metadata'>
+            Karim Kadry, Shreya Gupta, Farhad R Nezami, Elazer R Edelman<br />
+            <i>arXiv preprint</i>, 2023<br />
+        </div>
+        <a href="https://arxiv.org/abs/2401.00247">Paper</a> | <a href="/files/diffusion_editing.pdf">Download Here</a>
+    </td>
+</tr>
+
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">
+                <img class="teaser_img" src="/assets/img/RSIF.jpg" alt="coronarytwin.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>A platform for high-fidelity patient-specific structural modelling of atherosclerotic arteries: from intravascular imaging to three-dimensional stress distributions</b><br />
+        <div class='paper_metadata'>
+            Karim Kadry, Max L. Olender, David Marlevi, Elazer R. Edelman, Farhad R. Nezami<br />
+            <i>Royal Society Interface</i>, 2021<br />
+        </div>
+        <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">Paper</a> | <a href="/files/Platform.pdf">Download Here</a>
+    </td>
+</tr>
+
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://www.sciencedirect.com/science/article/pii/S0010482523008901">
+                <img class="teaser_img" src="/assets/img/CBM.png" alt="fully_automated_finite_element.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>Fully automated construction of three-dimensional finite element simulations from Optical Coherence Tomography</b><br />
+        <div class='paper_metadata'>
+            Ross Straughan*, Karim Kadry*, Sahil A Parikh, Elazer R. Edelman, Farhad R. Nezami<br />
+            <i>Computers in Biology and Medicine</i>, 2023<br />
+        </div>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0010482523008901">Paper</a> | <a href="/files/Fully_Automated_OCT.pdf">Download Here</a>
+    </td>
+</tr>
+
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://arxiv.org/abs/2301.00060">
+                <img class="teaser_img" src="/assets/img/coreg_img.png" alt="morphology_non_rigid_registration.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>Morphology-based non-rigid registration of coronary computed tomography and intravascular images through virtual catheter path optimization</b><br />
+        <div class='paper_metadata'>
+            Karim Kadry, Abhishek Karmakar, Andreas Schuh, Kersten Peterson, Michiel Schaap, David Marlevi, Charles Taylor, Elazer Edelman, Farhad Nezami<br />
+            <i>Arxiv</i>, 2022<br />
+        </div>
+        <a href="https://arxiv.org/abs/2301.00060">Paper</a> | <a href="/files/coreg_paper.pdf">Download Here</a>
+    </td>
+</tr>
+
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">
+                <img class="teaser_img" src="/assets/img/Diastolic_Dysfunction.png" alt="diastolic_dysfunction.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>Biomechanics of Diastolic Dysfunction: A One-Dimensional Computational Modeling Approach</b><br />
+        <div class='paper_metadata'>
+            Karim Kadry, Stamatia Pagoulatou, Quentin Mercier, Georgios Rovas, Vasiliki Bikia, Hajo Müller, Dionysios Adamopoulos, Nikolaos Stergiopulos<br />
+            <i>American Journal of Physiology-Heart and Circulatory Physiology</i>, 2020<br />
+        </div>
+        <a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">Paper</a> | <a href="/files/Diastolic_Dysfunction_Modeling.pdf">Download Here</a>
+    </td>
+</tr>
 </table>
