@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "About Me"
 excerpt: "About me"
@@ -142,4 +142,4 @@ I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/),
     </div>
     <p>We develop a computational model to study diastolic dysfunction (DD), a key component of heart failure with preserved ejection fraction (HFpEF). Our model integrates a one-dimensional arterial network with a zero-dimensional cardiac model to investigate the active relaxation and passive stiffness of the left ventricular wall. This framework provides insights into the biomechanical mechanisms of DD and HFpEF.</p>
   </div>
-</div>
+</div> -->
