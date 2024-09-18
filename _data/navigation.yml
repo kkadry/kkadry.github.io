@@ -1,4 +1,7 @@
 # main links links
 main:
+  # - title: "Publications"
+  #   url: /publications/
   - title: "CV"
-    url: /files/CV.pdf
+    url: /files/Karim_Kadry_CV.pdf
+    

@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am an ML research engineer at [Scale AI](https://scale.com/). My research focuses on computer vision and 3D vision. I did a PhD at MIT CSAIL advised by [Polina Golland](https://people.csail.mit.edu/polina/). I was a student researcher at Google with [Daniel Duckworth](https://scholar.google.com/citations?user=2fWmq-4AAAAJ&hl=en) and [Peter Hedman](https://www.phogzone.com/), and interned at Adobe with [Jiawen Chen](http://people.csail.mit.edu/jiawen/) and [Cecilia Zhang](https://ceciliavision.github.io/). I worked with [Jim Duncan](https://medicine.yale.edu/profile/james_duncan/) and [Julius Chapiro](https://medicine.yale.edu/profile/julius_chapiro/) in the [Yale Radiology Research Lab](https://medicine.yale.edu/lab/radresearch/), and as an undergrad I did research with [Stuart Campbell](https://seas.yale.edu/faculty-research/faculty-directory/stuart-campbell).
+I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/), advised by Elazer Edelman. I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and a dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/). My research involves integrating computational tools into clinical workflows to understand coronary artery disease and guide cardiovascular interventions. To do this, I leverage techniques from computational mechanics, biomedical computer vision, image registration, and generative AI.
 
 <style type="text/css">
 	.paper_metadata a {
@@ -121,14 +121,3 @@ I am an ML research engineer at [Scale AI](https://scale.com/). My research focu
 })</script>
 
 {% include publications %}
-
-## Fun AI Creations ([more](https://www.instagram.com/clintonjwang/))
-<div id="gallery">
-</div>
-<img id="modal" src="">
-<div id="leftarrow" class="button">
-	<
-</div>
-<div id="rightarrow" class="button">
-	>
-</div>
