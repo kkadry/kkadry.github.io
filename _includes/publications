@@ -38,6 +38,7 @@
     </td>
 </tr>
 
+{% include table-space.html %}
 <tr>
     <td class="pub_td1">
         <div class="teaser_img_div">
@@ -55,7 +56,7 @@
         <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">Paper</a> | <a href="/files/Platform.pdf">Download Here</a>
     </td>
 </tr>
-
+{% include table-space.html %}
 <tr>
     <td class="pub_td1">
         <div class="teaser_img_div">
@@ -70,10 +71,10 @@
             Ross Straughan*, Karim Kadry*, Sahil A Parikh, Elazer R. Edelman, Farhad R. Nezami<br />
             <i>Computers in Biology and Medicine</i>, 2023<br />
         </div>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0010482523008901">Paper</a> | <a href="/files/Fully_Automated_OCT.pdf">Download Here</a>
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482523008065">Paper</a> | <a href="/files/Fully_Automated_OCT.pdf">Download Here</a>
     </td>
 </tr>
-
+{% include table-space.html %}
 <tr>
     <td class="pub_td1">
         <div class="teaser_img_div">
@@ -91,7 +92,7 @@
         <a href="https://arxiv.org/abs/2301.00060">Paper</a> | <a href="/files/coreg_paper.pdf">Download Here</a>
     </td>
 </tr>
-
+{% include table-space.html %}
 <tr>
     <td class="pub_td1">
         <div class="teaser_img_div">
@@ -106,7 +107,8 @@
             Karim Kadry, Stamatia Pagoulatou, Quentin Mercier, Georgios Rovas, Vasiliki Bikia, Hajo Müller, Dionysios Adamopoulos, Nikolaos Stergiopulos<br />
             <i>American Journal of Physiology-Heart and Circulatory Physiology</i>, 2020<br />
         </div>
-        <a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">Paper</a> | <a href="/files/Diastolic_Dysfunction_Modeling.pdf">Download Here</a>
+        <a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">Paper</a> | <a href="/files/Diastolic_Dysfunction.pdf">Download Here</a>
     </td>
 </tr>
+{% include table-space.html %}
 </table>
