@@ -10,7 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/), advised by Elazer Edelman. I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and a dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/). My research involves integrating computational tools into clinical workflows to understand coronary artery disease and guide cardiovascular interventions. To do this, I leverage techniques from computational mechanics, biomedical computer vision, image registration, and generative AI.
+I am a third-year PhD student at the [Edelman Lab](https://edelmanlab.mit.edu/), advised by [Elazer Edelman](https://en.wikipedia.org/wiki/Elazer_R._Edelman). I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and a dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/). My current research aims to integrate **generative models of 3D anatomic shape** with **computational physics simulators** to reason about the interaction between anatomic form and medical device biomechanics. More specifically my research focuses on enforcing **geometric** and **topological** constraints on such anatomic diffusion models, enabling the custom tailoring of **counterfactual shapes** that change simulated device outcomes, revealing critical **anatomic determinants** of device performance.
+
 
 <style type="text/css">
 	.paper_metadata a {
