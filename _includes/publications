@@ -43,7 +43,7 @@
 <tr>
     <td class="pub_td1">
         <div class="teaser_img_div">
-            <a href="https://arxiv.org/abs/2301.00060">
+            <a href=https://ieeexplore.ieee.org/abstract/document/10706932/">
                 <img class="teaser_img" src="/assets/img/coreg_img.png" alt="morphology_non_rigid_registration.html"/>
             </a>
         </div>
@@ -54,7 +54,7 @@
             <b>Karim Kadry</b>, Abhishek Karmakar, Andreas Schuh, Kersten Peterson, Michiel Schaap, David Marlevi, Charles Taylor, Elazer Edelman, Farhad Nezami<br />
             <i>Accepted to IEEE Transactions in Medical Imaging</i>, 2024<br />
         </div>
-        <a href="https://arxiv.org/abs/2301.00060">Paper</a> | <a href="/files/coreg_paper.pdf">Download Here</a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10706932/">Paper</a> | <a href="/files/coreg_paper.pdf">Download Here</a>
     </td>
 </tr>
 {% include table-space.html %}
