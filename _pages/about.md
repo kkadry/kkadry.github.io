@@ -13,7 +13,7 @@ redirect_from:
 I am a fourth-year PhD student in Medical Engineering and Medical Physics at the Harvard-MIT Program in Health Sciences and Technology, specializing in computer science. I am advised by [Elazer Edelman](https://en.wikipedia.org/wiki/Elazer_R._Edelman) and [Farhad Nezami](https://nezamilab.bwh.harvard.edu/). I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and a dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/).
  
 
-## Research Interests
+<!-- ## Research Interests -->
 My work focuses on developing **controllable generative models of 3D anatomic shape** that are compatible with **computational simulators of medical device interventions** to understand how anatomic form impacts interventional outcomes. More specifically I develop conditioning and guidance methods that impose **morphological**, **skeletal**, and **topological**  constraints on anatomic diffusion models. 
 
 <!-- This enables the creation of counterfactual digital siblings and the augmentation of in-silico trial cohorts with rare anatomies. -->
