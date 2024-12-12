@@ -10,9 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-I am a fourth-year PhD student in Medical Engineering and Medical Physics at the Harvard-MIT Program in Health Sciences and Technology, advised by [Elazer Edelman](https://en.wikipedia.org/wiki/Elazer_R._Edelman) and [Farhad Nezami](https://nezamilab.bwh.harvard.edu/). I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and a dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/).
+I am a fourth-year PhD student in Medical Engineering and Medical Physics at the Harvard-MIT Program in Health Sciences and Technology, specializing in computer science. I am advised by [Elazer Edelman](https://en.wikipedia.org/wiki/Elazer_R._Edelman) and [Farhad Nezami](https://nezamilab.bwh.harvard.edu/). I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and a dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/).
  
-I am interested in integrating **generative models of 3D anatomic shape** with **computational simulators of medical devices** to understand how anatomic form impacts interventional outcomes. More specifically I focus on equipping diffusion models with **geometric** and **topological** control mechanisms to edit **patient-specific anatomy** and create **digital siblings**. Simulating both patient and sibling enables clinical researchers and device designers to find **counterfactual shape features** that causally influence simulated device outcomes, leading to **safer and more effective** medical devices.
+
+## Research Interests
+My work focuses on developing **controllable generative models of 3D anatomic shape** that are compatible with **computational simulators of medical device interventions** to understand how anatomic form impacts interventional outcomes. More specifically I develop conditioning and guidance methods that impose **morphological**, **skeletal**, and **topological**  constraints on anatomic diffusion models, enabling the following applications:
+
+- **Simulation-based counterfactuals with digital siblings**: When simulating device interventions on patient-specific digital twins, it is difficult to determine when any specific anatomic feature causally influences device outcomes. We propose to controllably edit patient-specific anatomy to create **digital siblings** that exhibit subtle differences from their original digital twin. Simulating both patient and sibling enables clinical researchers and device designers to find **counterfactual shape features** that causally influence simulated device outcomes, leading to **safer and more effective** medical devices, as well as **novel scientific insights**.
+- **Augmenting in-silico trial cohorts with rare anatomies**: Digital twin datasets are often imbalanced in terms of anatomic features, where the sickest and most problematic patients are underrepresented. We propose to leverage anatomic diffusion models to controllably augment virtual cohorts with **rare anatomic shapes**, enabling in-silico device trials for **diverse patient populations**, and enhancing the computational evaluation of medical devices.
 
 
 <style type="text/css">
