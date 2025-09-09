@@ -2,7 +2,7 @@
 
 ### Generative Diffusion Models of Cardiovascular Anatomy
 
-We study how diffusion models trained on cardiovascular anatomy can produce informative scenarios when used for device simulation.
+When and where can diffusion models trained on cardiovascular anatomy produce informative synthetic data when used for device simulation?
 
 <table class="pub_table">
 <tr>
@@ -19,7 +19,8 @@ We study how diffusion models trained on cardiovascular anatomy can produce info
             <b>Karim Kadry</b>, Shreya Gupta, Jonas Sogbadji, Michiel Schaap, Kersten Petersen, Takuya Mizukami, Carlos Collet, Farhad R Nezami, Elazer R Edelman<br />
             <i>ECCV 2024</i><br />
         </div>
-        <a href="https://arxiv.org/abs/2407.15631">Paper</a> | <a href="/files/morphoskel_diffusion.pdf">Download Here</a> | <a href="https://github.com/kkadry/Morphoskel-Diffusion">Code</a>
+        <a href="https://arxiv.org/abs/2407.15631">Paper</a> | <a href="/files/morphoskel_diffusion.pdf">Download Here</a> | <a href="https://github.com/kkadry/Morphoskel-Diffusion">Code</a><br />
+        <small style="color: #666; margin-top: 5px; display: block;">We introduce a new family of guidance based on geometric and skeletal constraints that can control generative models of multi-tissue coronary anatomy.</small>
     </td>
 </tr>
 {% include table-space.html %}
@@ -38,14 +39,15 @@ We study how diffusion models trained on cardiovascular anatomy can produce info
             <b>Karim Kadry</b>, Shreya Gupta, Farhad R Nezami, Elazer R Edelman<br />
             <i>npj Digital Medicine</i>, 2024<br />
         </div>
-        <a href="https://www.nature.com/articles/s41746-024-01332-0">Paper</a> | <a href="/files/diffusion_editing.pdf">Download Here</a>
+        <a href="https://www.nature.com/articles/s41746-024-01332-0">Paper</a> | <a href="/files/diffusion_editing.pdf">Download Here</a><br />
+        <small style="color: #666; margin-top: 5px; display: block;">We develop a framework for studying how the natural editing capabilities of diffusion models can edit anatomic digital twins to create 'digital siblings', potentially revealing the effect of subtle anatomic variation on simulated device outcomes.</small>
     </td>
 </tr>
 </table>
 
 ### Automatic Reconstruction of Anatomic Digital Twins from Multi-modal Datasets
 
-We automate the creation of simulation-ready anatomic digital twins from multi-modal datasets of cardiovascular images.
+Can we automate the creation of simulation-ready anatomic digital twins from multi-modal datasets of cardiovascular images?
 
 <table class="pub_table">
 <tr>
@@ -62,7 +64,8 @@ We automate the creation of simulation-ready anatomic digital twins from multi-m
             <b>Karim Kadry</b>, Abhishek Karmakar, Andreas Schuh, Kersten Peterson, Michiel Schaap, David Marlevi, Charles Taylor, Elazer Edelman, Farhad Nezami<br />
             <i>IEEE Transactions in Medical Imaging</i>, 2024<br />
         </div>
-        <a href="https://ieeexplore.ieee.org/abstract/document/10706932">Paper</a> | <a href="/files/coreg_paper.pdf">Download Here</a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10706932">Paper</a> | <a href="/files/coreg_paper.pdf">Download Here</a><br />
+        <small style="color: #666; margin-top: 5px; display: block;">We introduce a geometric multi-modal alignment algorithm where a set of virtual catheter frames are bent, twisted, and stretched to align the tissue morphology found in computed tomography and intravascular images.</small>
     </td>
 </tr>
 {% include table-space.html %}
@@ -81,7 +84,8 @@ We automate the creation of simulation-ready anatomic digital twins from multi-m
             <b>Karim Kadry</b>, Max L. Olender, David Marlevi, Elazer R. Edelman, Farhad R. Nezami<br />
             <i>Royal Society Interface</i>, 2021<br />
         </div>
-        <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">Paper</a> | <a href="/files/Platform.pdf">Download Here</a>
+        <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">Paper</a> | <a href="/files/Platform.pdf">Download Here</a><br />
+        <small style="color: #666; margin-top: 5px; display: block;">We leverage convolutional neural networks and physics-based adaptive meshing to create simulation ready models of coronary biomechanics from intravascular images.</small>
     </td>
 </tr>
 {% include table-space.html %}
@@ -100,14 +104,15 @@ We automate the creation of simulation-ready anatomic digital twins from multi-m
             Ross Straughan*, <b>Karim Kadry</b>*, Sahil A Parikh, Elazer R. Edelman, Farhad R. Nezami<br />
             <i>Computers in Biology and Medicine</i>, 2023<br />
         </div>
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482523008065">Paper</a> | <a href="/files/Fully_Automated_OCT.pdf">Download Here</a>
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482523008065">Paper</a> | <a href="/files/Fully_Automated_OCT.pdf">Download Here</a><br />
+        <small style="color: #666; margin-top: 5px; display: block;">We fully automate the process of creating simulation-ready digital twins for coronary artery biomechanics simulations.</small>
     </td>
 </tr>
 </table>
 
 ### Numerical Simulation for Understanding Pathophysiology and Device Interventions
 
-We leverage numerical solvers for both ordinary and partial differential equations to understand the causes of both pathology and how device interventions can alleviate them.
+How do we leverage numerical solvers for both ordinary and partial differential equations to understand the causes of both pathology and how device interventions can alleviate them?
 
 <table class="pub_table">
 <tr>
@@ -124,10 +129,11 @@ We leverage numerical solvers for both ordinary and partial differential equatio
             Jonas Sogbadji*, <b>Karim Kadry</b>*, Gianluca Poletti, Francesca Berti, Elazer R. Edelman, Farhad R. Nezami<br />
             <i>Biomechanics and Modeling in Mechanobiology</i>, 2025<br />
         </div>
-        <a href="https://link.springer.com/article/10.1007/s10237-024-01923-6">Paper</a> | <a href="/files/IVL_paper.pdf">Download Here</a>
+        <a href="https://link.springer.com/article/10.1007/s10237-024-01923-6">Paper</a> | <a href="/files/IVL_paper.pdf">Download Here</a><br />
+        <small style="color: #666; margin-top: 5px; display: block;">We leverage computational mechanics simulations and parametric modelling to study the effect of calcium fractures induced by intravascular lithotripsy on stent deployment.</small>
     </td>
 </tr>
-{% include table-space.html %}
+{% include table-space.html %} 
 
 <tr>
     <td class="pub_td1">
@@ -143,7 +149,8 @@ We leverage numerical solvers for both ordinary and partial differential equatio
             <b>Karim Kadry</b>, Stamatia Pagoulatou, Quentin Mercier, Georgios Rovas, Vasiliki Bikia, Hajo Müller, Dionysios Adamopoulos, Nikolaos Stergiopulos<br />
             <i>American Journal of Physiology-Heart and Circulatory Physiology</i>, 2020<br />
         </div>
-        <a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">Paper</a> | <a href="/files/Diastolic_Dysfunction.pdf">Download Here</a>
+        <a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">Paper</a> | <a href="/files/Diastolic_Dysfunction.pdf">Download Here</a><br />
+        <small style="color: #666; margin-top: 5px; display: block;">We use a 0D-1D coupled system of the cardiovascular system to reveal how electromechanical delay and passive stiffness of the left ventricular wall affect the hemodynamic signatures of diastolic dysfunction.</small>
     </td>
 </tr>
 {% include table-space.html %}
