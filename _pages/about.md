@@ -126,4 +126,4 @@ I'm interested in how machine learning can transform the way we use computationa
   textColor: '#fff'
 })</script>
 
-{% include key_papers %}
+{% include publications %}
