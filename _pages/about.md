@@ -47,8 +47,13 @@ I'm interested in how machine learning can transform the way we use computationa
 
 	/* Make content wider by expanding to the right only */
 	@media (min-width: 925px) {
+		.page {
+			width: 85% !important;
+			margin-right: 0 !important;
+		}
+		
 		.page__content {
-			width: calc(100vw - 400px) !important;
+			width: 100% !important;
 			max-width: none !important;
 		}
 		
