@@ -45,16 +45,11 @@ I'm interested in how machine learning can transform the way we use computationa
 		color: red;
 	}
 
-	/* Make page wider by expanding to the right only */
+	/* Make publications section wider by expanding to the right only */
 	@media (min-width: 925px) {
-		.page {
-			width: calc(100% - 200px) !important;
-			margin-right: 0 !important;
-		}
-		
-		#main {
+		.pub_table {
+			width: calc(100vw - 300px) !important;
 			max-width: none !important;
-			padding-right: 1em !important;
 		}
 	}
 
