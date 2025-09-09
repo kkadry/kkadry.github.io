@@ -10,17 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-I am a fourth-year PhD student in Medical Engineering and Medical Physics at the Harvard-MIT Program in Health Sciences and Technology, specializing in computer science. I am advised by [Elazer Edelman](https://en.wikipedia.org/wiki/Elazer_R._Edelman) and [Farhad Nezami](https://nezamilab.bwh.harvard.edu/). I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and a dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/).
+I am a fifth-year PhD student in Medical Engineering and Medical Physics at the Harvard-MIT Program in Health Sciences and Technology, specializing in computer science. I am advised by [Elazer Edelman](https://en.wikipedia.org/wiki/Elazer_R._Edelman) and [Farhad Nezami](https://nezamilab.bwh.harvard.edu/). I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and a dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/). I have previously interned at [Calico](https://www.calicolabs.com/) developing protein generative models, [General Electric Healthcare](https://www.gehealthcare.com/) creating generative models for medical imaging, and [Novostia](https://www.novostia.com/) focusing on medical device development.
  
-
 <!-- ## Research Interests -->
-My work focuses on developing **controllable generative models of 3D anatomic shape** that are compatible with **computational simulators of medical device interventions** to understand how anatomic form impacts interventional outcomes. More specifically I develop conditioning and guidance methods that impose **morphological**, **skeletal**, and **topological**  constraints on anatomic diffusion models. 
+I'm interested in how machine learning can transform the way we use computational simulation environments for science, engineering, and medicine. Coming from a biomechanical simulation background, I became increasingly frustrated with computational simulators as I was starting my PhD. I found that the main bottleneck wasn't our understanding of the underlying physics, but rather our ability to process patient-specific anatomic geometry and understand their impact on device outcomes. My research focuses on several key bottlenecks for using computational simulation for cardiology.
 
-<!-- This enables the creation of counterfactual digital siblings and the augmentation of in-silico trial cohorts with rare anatomies. -->
 
-<!-- - **Simulation-based counterfactuals with digital siblings**: When simulating device interventions on patient-specific digital twins, it is difficult to determine when any specific anatomic feature causally influences device outcomes. We propose to controllably edit patient-specific anatomy to create **digital siblings** that exhibit subtle differences from their original digital twin. Simulating both patient and sibling enables device designers to find **counterfactual shape features** that causally influence simulated device outcomes, leading to **safer and more effective** medical devices.
-- **Augmenting in-silico trial cohorts with rare anatomies**: Digital twin datasets are often imbalanced in terms of anatomic features, where the sickest and most problematic patients are underrepresented. We propose to leverage anatomic diffusion models to controllably augment virtual cohorts with **rare anatomic shapes**, enabling in-silico device trials for **diverse patient populations**, and enhancing the computational evaluation of medical devices. -->
-
+<!-- To this end my PhD focuses on 1) computational geometry to reconstruct patient-specific models from multi-modal datasets of cardiovascular images 2) generative diffusion models to create synthetic anatomies that help reveal the relationship bewteen subtle geometric variation and simulated device outcomes, and 3) virtual trial platforms that simulate device deployment on large scale anatomic cohorts to train phsyics-based surrogate machine learning. -->
 
 <style type="text/css">
 	.paper_metadata a {
@@ -130,4 +126,4 @@ My work focuses on developing **controllable generative models of 3D anatomic sh
   textColor: '#fff'
 })</script>
 
-{% include publications %}
+{% include key_papers %}

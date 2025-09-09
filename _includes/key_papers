@@ -1,0 +1,150 @@
+## Research Areas ([full publication list](https://scholar.google.com/citations?user=ecxGghUAAAAJ&hl=en))
+
+### Generative Diffusion Models of Cardiovascular Anatomy
+
+We study how diffusion models trained on cardiovascular anatomy can produce informative scenarios when used for device simulation.
+
+<table class="pub_table">
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://arxiv.org/abs/2407.15631">
+                <img class="teaser_img" src="/assets/img/morphoskel_diffusion.png" />
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control</b><br />
+        <div class='paper_metadata'>
+            <b>Karim Kadry</b>, Shreya Gupta, Jonas Sogbadji, Michiel Schaap, Kersten Petersen, Takuya Mizukami, Carlos Collet, Farhad R Nezami, Elazer R Edelman<br />
+            <i>ECCV 2024</i><br />
+        </div>
+        <a href="https://arxiv.org/abs/2407.15631">Paper</a> | <a href="/files/morphoskel_diffusion.pdf">Download Here</a> | <a href="https://github.com/kkadry/Morphoskel-Diffusion">Code</a>
+    </td>
+</tr>
+{% include table-space.html %}
+
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://arxiv.org/abs/2401.00247">
+                <img class="teaser_img" src="/assets/img/diffusion_editing.png" alt="diffusion_editing.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins</b><br />
+        <div class='paper_metadata'>
+            <b>Karim Kadry</b>, Shreya Gupta, Farhad R Nezami, Elazer R Edelman<br />
+            <i>npj Digital Medicine</i>, 2024<br />
+        </div>
+        <a href="https://www.nature.com/articles/s41746-024-01332-0">Paper</a> | <a href="/files/diffusion_editing.pdf">Download Here</a>
+    </td>
+</tr>
+</table>
+
+### Automatic Reconstruction of Anatomic Digital Twins from Multi-modal Datasets
+
+We automate the creation of simulation-ready anatomic digital twins from multi-modal datasets of cardiovascular images.
+
+<table class="pub_table">
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://ieeexplore.ieee.org/abstract/document/10706932/">
+                <img class="teaser_img" src="/assets/img/coreg_img.png" alt="morphology_non_rigid_registration.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>Morphology-based non-rigid registration of coronary computed tomography and intravascular images through virtual catheter path optimization</b><br />
+        <div class='paper_metadata'>
+            <b>Karim Kadry</b>, Abhishek Karmakar, Andreas Schuh, Kersten Peterson, Michiel Schaap, David Marlevi, Charles Taylor, Elazer Edelman, Farhad Nezami<br />
+            <i>IEEE Transactions in Medical Imaging</i>, 2024<br />
+        </div>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10706932">Paper</a> | <a href="/files/coreg_paper.pdf">Download Here</a>
+    </td>
+</tr>
+{% include table-space.html %}
+
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">
+                <img class="teaser_img" src="/assets/img/RSIF.jpg" alt="coronarytwin.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>A platform for high-fidelity patient-specific structural modelling of atherosclerotic arteries: from intravascular imaging to three-dimensional stress distributions</b><br />
+        <div class='paper_metadata'>
+            <b>Karim Kadry</b>, Max L. Olender, David Marlevi, Elazer R. Edelman, Farhad R. Nezami<br />
+            <i>Royal Society Interface</i>, 2021<br />
+        </div>
+        <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">Paper</a> | <a href="/files/Platform.pdf">Download Here</a>
+    </td>
+</tr>
+{% include table-space.html %}
+
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://www.sciencedirect.com/science/article/pii/S0010482523008901">
+                <img class="teaser_img" src="/assets/img/CBM.png" alt="fully_automated_finite_element.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>Fully automated construction of three-dimensional finite element simulations from Optical Coherence Tomography</b><br />
+        <div class='paper_metadata'>
+            Ross Straughan*, <b>Karim Kadry</b>*, Sahil A Parikh, Elazer R. Edelman, Farhad R. Nezami<br />
+            <i>Computers in Biology and Medicine</i>, 2023<br />
+        </div>
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482523008065">Paper</a> | <a href="/files/Fully_Automated_OCT.pdf">Download Here</a>
+    </td>
+</tr>
+</table>
+
+### Numerical Simulation for Understanding Pathophysiology and Device Interventions
+
+We leverage numerical solvers for both ordinary and partial differential equations to understand the causes of both pathology and how device interventions can alleviate them.
+
+<table class="pub_table">
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://link.springer.com/article/10.1007/s10237-024-01923-6">
+                <img class="teaser_img" src="/assets/img/IVL.png" alt="ivl_calcified_plaque.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>Impact of lesion preparation-induced calcified plaque defects in vascular intervention for atherosclerotic disease: in silico assessment</b><br />
+        <div class='paper_metadata'>
+            Jonas Sogbadji*, <b>Karim Kadry</b>*, Gianluca Poletti, Francesca Berti, Elazer R. Edelman, Farhad R. Nezami<br />
+            <i>Biomechanics and Modeling in Mechanobiology</i>, 2025<br />
+        </div>
+        <a href="https://link.springer.com/article/10.1007/s10237-024-01923-6">Paper</a> | <a href="/files/IVL_paper.pdf">Download Here</a>
+    </td>
+</tr>
+{% include table-space.html %}
+
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">
+                <img class="teaser_img" src="/assets/img/Diastolic_Dysfunction.png" alt="diastolic_dysfunction.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>Biomechanics of Diastolic Dysfunction: A One-Dimensional Computational Modeling Approach</b><br />
+        <div class='paper_metadata'>
+            <b>Karim Kadry</b>, Stamatia Pagoulatou, Quentin Mercier, Georgios Rovas, Vasiliki Bikia, Hajo Müller, Dionysios Adamopoulos, Nikolaos Stergiopulos<br />
+            <i>American Journal of Physiology-Heart and Circulatory Physiology</i>, 2020<br />
+        </div>
+        <a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">Paper</a> | <a href="/files/Diastolic_Dysfunction.pdf">Download Here</a>
+    </td>
+</tr>
+{% include table-space.html %}
+</table>
