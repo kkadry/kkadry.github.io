@@ -45,15 +45,13 @@ I'm interested in how machine learning can transform the way we use computationa
 		color: red;
 	}
 
-	/* Make content wider without affecting page positioning */
+	/* Remove sidebar constraints to make content wider */
 	@media (min-width: 925px) {
-		.page__content {
-			width: 150% !important;
-			max-width: none !important;
-		}
-		
-		.pub_table {
-			width: 100% !important;
+		.page {
+			float: none !important;
+			width: auto !important;
+			margin-left: 200px !important;
+			margin-right: 20px !important;
 		}
 	}
 
