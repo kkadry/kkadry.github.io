@@ -10,7 +10,7 @@ table.pub_table td.pub_td2 { padding-top: 8px; }
 </style>
 
 ### Generative Diffusion Models of Cardiovascular Anatomy
-Simulation based testing of cardiovascular medical devices is increasingly reliant on patient-specific anatomic geometry to assess device safety and efficacy. 
+Simulation-based testing of cardiovascular medical devices is increasingly reliant on patient-specific anatomic geometry to assess device safety and efficacy. 
 However, it is difficult to disentangle the effect of geometric features on simulated outcomes due to a lack of controllability.
 We are interested in adapting diffusion models to controllably generate anatomic structures that are informative under device simulation.
 
@@ -20,7 +20,7 @@ We are interested in adapting diffusion models to controllably generate anatomic
             <b>CardioComposer: Flexible and Compositional Anatomical Structure Generation with Disentangled Geometric Guidance</b><br />
             <div class='paper_metadata'>
                 <b>Karim Kadry</b>, Shoaib Goraya, Ajay Manicka, Abdalla Abdelwahed, Farhad R. Nezami, Elazer R. Edelman<br />
-                <i>arxiv preprint 2025</i><br />
+                <i>arXiv preprint, 2025</i><br />
             </div>
             <a href="https://arxiv.org/abs/2509.08015">Paper</a> | <a href="/files/cardiocomposer_arxiv.pdf">Download Here</a><br />
             <small style="color: #666; margin-top: 5px; display: block;">We propose a generalized compositional framework for guiding unconditional diffusion models of human anatomy using interpretable ellipsoidal primitives embedded in 3D space.</small>
@@ -75,22 +75,22 @@ We are interested in adapting diffusion models to controllably generate anatomic
     </tr>
 </table>
 
-### Automatic Reconstruction of Anatomic Digital Twins from Multi-modal Datasets
+### Automatic Reconstruction of Anatomic Digital Twins from Multimodal Datasets
 
 Large-scale clinical imaging datasets are routinely collected and provide a rich source of anatomic data for cardiovascular device simulations. 
 However, creating simulation-ready anatomic digital twins from these images is a time-consuming and manual process, often taking several hours to days for a single patient.
-We are interested in automating this process by combining deep-learning, image processing, and computational geometry to enable simulation-based virtual trials of medical devices.
+We are interested in automating this process by combining deep learning, computer vision, and computational geometry to enable simulation-based virtual trials of medical devices.
 
 <table class="pub_table">
 <tr>
     <td class="pub_td2">
         <b>Morphology-based non-rigid registration of coronary computed tomography and intravascular images through virtual catheter path optimization</b><br />
         <div class='paper_metadata'>
-            <b>Karim Kadry</b>, Abhishek Karmakar, Andreas Schuh, Kersten Peterson, Michiel Schaap, David Marlevi, Charles Taylor, Elazer Edelman, Farhad Nezami<br />
+            <b>Karim Kadry</b>, Abhishek Karmakar, Andreas Schuh, Kersten Petersen, Michiel Schaap, David Marlevi, Charles Taylor, Elazer Edelman, Farhad Nezami<br />
             <i>IEEE Transactions in Medical Imaging</i>, 2024<br />
         </div>
         <a href="https://ieeexplore.ieee.org/abstract/document/10706932">Paper</a> | <a href="/files/coreg_paper.pdf">Download Here</a><br />
-        <small style="color: #666; margin-top: 5px; display: block;">We introduce a geometric multi-modal alignment algorithm where a set of virtual catheter frames are bent, twisted, and stretched to align the tissue morphology found in computed tomography and intravascular images.</small>
+        <small style="color: #666; margin-top: 5px; display: block;">We introduce a geometric multimodal alignment algorithm where a set of virtual catheter frames are bent, twisted, and stretched to align the tissue morphology found in computed tomography and intravascular images.</small>
     </td>
     <td class="pub_td1">
         <div class="teaser_img_div">
@@ -144,8 +144,8 @@ We are interested in automating this process by combining deep-learning, image p
 
 ### Numerical Simulation for Understanding Pathophysiology and Device Interventions
 
-Physics-based computational modeling and simulation replicates the complex hemodynamic and biomechanical dynamics underlying disease progression and medical interventions.
-However, many diseases remain poorly understood in terms of their dominant pathophysiological factors, and many treatments lack clear mechanistic understanding of their therapeutic effects.
+Physics-based computational modeling replicates the complex hemodynamic and biomechanical dynamics underlying disease progression and medical interventions.
+However, many diseases remain poorly understood in terms of their dominant pathophysiological factors, and many treatments lack a clear mechanistic understanding of their therapeutic effects.
 We leverage numerical solvers for ordinary and partial differential equations to elucidate the fundamental mechanisms underlying both pathophysiology and device-based treatments.
 
 <table class="pub_table">
@@ -177,7 +177,7 @@ We leverage numerical solvers for ordinary and partial differential equations to
             <i>American Journal of Physiology-Heart and Circulatory Physiology</i>, 2020<br />
         </div>
         <a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">Paper</a> | <a href="/files/Diastolic_Dysfunction.pdf">Download Here</a><br />
-        <small style="color: #666; margin-top: 5px; display: block;">We use a 0D-1D coupled system of the cardiovascular system to reveal how electromechanical delay and passive stiffness of the left ventricular wall affect the hemodynamic signatures of diastolic dysfunction.</small>
+        <small style="color: #666; margin-top: 5px; display: block;">We use a 0D-1D coupled model of the cardiovascular system to reveal how electromechanical delay and passive stiffness of the left ventricular wall affect the hemodynamic signatures of diastolic dysfunction.</small>
     </td>
     <td class="pub_td1">
         <div class="teaser_img_div">
