@@ -1,9 +1,38 @@
 ## Research Areas ([full publication list](https://scholar.google.com/citations?user=ecxGghUAAAAJ&hl=en))
 
+<style type="text/css">
+table.pub_table tr { display: block; }
+table.pub_table td.pub_td1,
+table.pub_table td.pub_td2 { display: block; width: 100%; }
+.teaser_img_div { width: 100%; }
+.teaser_img { display: block; width: 100%; height: auto; }
+table.pub_table td.pub_td2 { padding-top: 8px; }
+</style>
+
 ### Generative Diffusion Models of Cardiovascular Anatomy
 
-When and where can diffusion models trained on cardiovascular anatomy produce informative synthetic data when used for device simulation?
+<table class="pub_table">
+    <tr>
+        <td class="pub_td1">
+            <div class="teaser_img_div">
+                <a href="https://arxiv.org/abs/2509.08015">
+                    <img class="teaser_img" src="/assets/img/cardiocomposer_teaser.png" />
+                </a>
+            </div>
+        </td>
+        <td class="pub_td2">
+            <b>CardioComposer: Flexible and Compositional Anatomical Structure Generation with Disentangled Geometric Guidance</b><br />
+            <div class='paper_metadata'>
+                <b>Karim Kadry</b>, Shoaib Goraya, Ajay Manicka, Abdalla Abdelwahed, Farhad R. Nezami, Elazer R. Edelman<br />
+                <i>Arxiv</i><br />
+            </div>
+            <a href="https://arxiv.org/abs/2509.08015">Paper</a> | <a href="/files/cardiocomposer_arxiv.pdf">Download Here</a><br />
+            <small style="color: #666; margin-top: 5px; display: block;">We propose a generalized compositional framework for guiding unconditional diffusion models of human anatomy using interpretable ellipsoidal primitives embedded in 3D space.</small>
+        </td>
+    </tr>
+    {% include table-space.html %}
 
+    
 <table class="pub_table">
 <tr>
     <td class="pub_td1">
@@ -20,7 +49,7 @@ When and where can diffusion models trained on cardiovascular anatomy produce in
             <i>ECCV 2024</i><br />
         </div>
         <a href="https://arxiv.org/abs/2407.15631">Paper</a> | <a href="/files/morphoskel_diffusion.pdf">Download Here</a> | <a href="https://github.com/kkadry/Morphoskel-Diffusion">Code</a><br />
-        <small style="color: #666; margin-top: 5px; display: block;">We introduce a new family of guidance based on geometric and skeletal constraints that can control generative models of multi-tissue coronary anatomy.</small>
+        <small style="color: #666; margin-top: 5px; display: block;">We introduce a family of diffusion model conditioning and guidance techniques based on geometric and skeletal constraints that can control generative models of multi-tissue coronary anatomy.</small>
     </td>
 </tr>
 {% include table-space.html %}
@@ -73,26 +102,6 @@ Can we automate the creation of simulation-ready anatomic digital twins from mul
 <tr>
     <td class="pub_td1">
         <div class="teaser_img_div">
-            <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">
-                <img class="teaser_img" src="/assets/img/RSIF.jpg" alt="coronarytwin.html"/>
-            </a>
-        </div>
-    </td>
-    <td class="pub_td2">
-        <b>A platform for high-fidelity patient-specific structural modelling of atherosclerotic arteries: from intravascular imaging to three-dimensional stress distributions</b><br />
-        <div class='paper_metadata'>
-            <b>Karim Kadry</b>, Max L. Olender, David Marlevi, Elazer R. Edelman, Farhad R. Nezami<br />
-            <i>Royal Society Interface</i>, 2021<br />
-        </div>
-        <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">Paper</a> | <a href="/files/Platform.pdf">Download Here</a><br />
-        <small style="color: #666; margin-top: 5px; display: block;">We leverage convolutional neural networks and physics-based adaptive meshing to create simulation ready models of coronary biomechanics from intravascular images.</small>
-    </td>
-</tr>
-{% include table-space.html %}
-
-<tr>
-    <td class="pub_td1">
-        <div class="teaser_img_div">
             <a href="https://www.sciencedirect.com/science/article/pii/S0010482523008901">
                 <img class="teaser_img" src="/assets/img/CBM.png" alt="fully_automated_finite_element.html"/>
             </a>
@@ -115,6 +124,26 @@ Can we automate the creation of simulation-ready anatomic digital twins from mul
 How do we leverage numerical solvers for both ordinary and partial differential equations to understand the causes of both pathology and how device interventions can alleviate them?
 
 <table class="pub_table">
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">
+                <img class="teaser_img" src="/assets/img/RSIF.jpg" alt="coronarytwin.html"/>
+            </a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>A platform for high-fidelity patient-specific structural modelling of atherosclerotic arteries: from intravascular imaging to three-dimensional stress distributions</b><br />
+        <div class='paper_metadata'>
+            <b>Karim Kadry</b>, Max L. Olender, David Marlevi, Elazer R. Edelman, Farhad R. Nezami<br />
+            <i>Royal Society Interface</i>, 2021<br />
+        </div>
+        <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">Paper</a> | <a href="/files/Platform.pdf">Download Here</a><br />
+        <small style="color: #666; margin-top: 5px; display: block;">We leverage convolutional neural networks and physics-based adaptive meshing to create simulation ready models of coronary biomechanics from intravascular images.</small>
+    </td>
+</tr>
+{% include table-space.html %}
+
 <tr>
     <td class="pub_td1">
         <div class="teaser_img_div">
