@@ -2,8 +2,8 @@
 
 <style type="text/css">
 table.pub_table tr { display: block; }
-table.pub_table td.pub_td1,
 table.pub_table td.pub_td2 { display: block; width: 100%; }
+table.pub_table td.pub_td1,
 .teaser_img_div { width: 100%; }
 .teaser_img { display: block; width: 100%; height: auto; }
 table.pub_table td.pub_td2 { padding-top: 8px; }
