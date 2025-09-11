@@ -20,7 +20,7 @@ We are interested in adapting diffusion models to controllably generate anatomic
             <b>CardioComposer: Flexible and Compositional Anatomical Structure Generation with Disentangled Geometric Guidance</b><br />
             <div class='paper_metadata'>
                 <b>Karim Kadry</b>, Shoaib Goraya, Ajay Manicka, Abdalla Abdelwahed, Farhad R. Nezami, Elazer R. Edelman<br />
-                <i>Arxiv</i><br />
+                <i>arxiv preprint 2025</i><br />
             </div>
             <a href="https://arxiv.org/abs/2509.08015">Paper</a> | <a href="/files/cardiocomposer_arxiv.pdf">Download Here</a><br />
             <small style="color: #666; margin-top: 5px; display: block;">We propose a generalized compositional framework for guiding unconditional diffusion models of human anatomy using interpretable ellipsoidal primitives embedded in 3D space.</small>
