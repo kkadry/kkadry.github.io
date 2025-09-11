@@ -77,7 +77,9 @@ We are interested in adapting diffusion models to controllably generate anatomic
 
 ### Automatic Reconstruction of Anatomic Digital Twins from Multi-modal Datasets
 
-Can we automate the creation of simulation-ready anatomic digital twins from multi-modal datasets of cardiovascular images?
+Large-scale clinical imaging datasets are routinely collected and provide a rich source of anatomic data for cardiovascular device simulations. 
+However, creating simulation-ready anatomic digital twins from these images is a time-consuming and manual process, often taking several hours to days for a single patient.
+We are interested in automating this process by combining deep-learning, image processing, and computational geometry to enable simulation-based virtual trials of medical devices.
 
 <table class="pub_table">
 <tr>
@@ -108,7 +110,7 @@ Can we automate the creation of simulation-ready anatomic digital twins from mul
             <i>Computers in Biology and Medicine</i>, 2023<br />
         </div>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482523008065">Paper</a> | <a href="/files/Fully_Automated_OCT.pdf">Download Here</a><br />
-        <small style="color: #666; margin-top: 5px; display: block;">We fully automate the process of creating simulation-ready digital twins for coronary artery biomechanics simulations.</small>
+        <small style="color: #666; margin-top: 5px; display: block;">We leverage morphological processing and multi-material meshing techniques to fully automate the process of creating simulation-ready digital twins for coronary artery biomechanics simulations.</small>
     </td>
     <td class="pub_td1">
         <div class="teaser_img_div">
@@ -118,13 +120,7 @@ Can we automate the creation of simulation-ready anatomic digital twins from mul
         </div>
     </td>
 </tr>
-</table>
 
-### Numerical Simulation for Understanding Pathophysiology and Device Interventions
-
-How do we leverage numerical solvers for both ordinary and partial differential equations to understand the causes of both pathology and how device interventions can alleviate them?
-
-<table class="pub_table">
 <tr>
     <td class="pub_td2">
         <b>A platform for high-fidelity patient-specific structural modelling of atherosclerotic arteries: from intravascular imaging to three-dimensional stress distributions</b><br />
@@ -144,7 +140,15 @@ How do we leverage numerical solvers for both ordinary and partial differential 
     </td>
 </tr>
 {% include table-space.html %}
+</table>
 
+### Numerical Simulation for Understanding Pathophysiology and Device Interventions
+
+Physics-based computational modeling and simulation replicates the complex hemodynamic and biomechanical dynamics underlying disease progression and medical interventions.
+However, many diseases remain poorly understood in terms of their dominant pathophysiological factors, and many treatments lack clear mechanistic understanding of their therapeutic effects.
+We leverage numerical solvers for ordinary and partial differential equations to elucidate the fundamental mechanisms underlying both pathophysiology and device-based treatments.
+
+<table class="pub_table">
 <tr>
     <td class="pub_td2">
         <b>Impact of lesion preparation-induced calcified plaque defects in vascular intervention for atherosclerotic disease: in silico assessment</b><br />
