@@ -10,9 +10,9 @@ table.pub_table td.pub_td2 { padding-top: 8px; }
 </style>
 
 ### Generative Diffusion Models of Cardiovascular Anatomy
-Simulation-based testing of cardiovascular medical devices is increasingly reliant on patient-specific anatomic geometry to assess device safety and efficacy. 
+<!-- Simulation-based testing of cardiovascular medical devices is increasingly reliant on patient-specific anatomic geometry to assess device safety and efficacy. 
 However, it is difficult to disentangle the effect of geometric features on simulated outcomes due to a lack of controllability.
-We are interested in adapting diffusion models to controllably generate anatomic structures that are informative under device simulation.
+We are interested in adapting diffusion models to controllably generate anatomic structures that are informative under device simulation. -->
 
 <table class="pub_table">
     <tr>
@@ -23,7 +23,7 @@ We are interested in adapting diffusion models to controllably generate anatomic
                 <i>arXiv preprint, 2025</i><br />
             </div>
             <a href="https://arxiv.org/abs/2509.08015">Paper</a> | <a href="/files/cardiocomposer_arxiv.pdf">Download Here</a><br />
-            <small style="color: #666; margin-top: 5px; display: block;">We propose a generalized compositional framework for guiding unconditional diffusion models of human anatomy using interpretable ellipsoidal primitives embedded in 3D space.</small>
+            <small style="color: #000; margin-top: 8px; display: block;">We propose a generalized compositional framework for guiding unconditional diffusion models of human anatomy using interpretable ellipsoidal primitives embedded in 3D space.</small>
         </td>
         <td class="pub_td1">
             <div class="teaser_img_div">
@@ -77,9 +77,9 @@ We are interested in adapting diffusion models to controllably generate anatomic
 
 ### Automatic Reconstruction of Anatomic Digital Twins from Multimodal Datasets
 
-Large-scale clinical imaging datasets are routinely collected and provide a rich source of anatomic data for cardiovascular device simulations. 
+<!-- Large-scale clinical imaging datasets are routinely collected and provide a rich source of anatomic data for cardiovascular device simulations. 
 However, creating simulation-ready anatomic digital twins from these images is a time-consuming and manual process, often taking several hours to days for a single patient.
-We are interested in automating this process by combining deep learning, computer vision, and computational geometry to enable simulation-based virtual trials of medical devices.
+We are interested in automating this process by combining deep learning, computer vision, and computational geometry to enable simulation-based virtual trials of medical devices. -->
 
 <table class="pub_table">
 <tr>
@@ -144,9 +144,9 @@ We are interested in automating this process by combining deep learning, compute
 
 ### Numerical Simulation for Understanding Pathophysiology and Device Interventions
 
-Physics-based computational modeling replicates the complex hemodynamic and biomechanical dynamics underlying disease progression and medical interventions.
+<!-- Physics-based computational modeling replicates the complex hemodynamic and biomechanical dynamics underlying disease progression and medical interventions.
 However, many diseases remain poorly understood in terms of their dominant pathophysiological factors, and many treatments lack a clear mechanistic understanding of their therapeutic effects.
-We leverage numerical solvers for ordinary and partial differential equations to elucidate the fundamental mechanisms underlying both pathophysiology and device-based treatments.
+We leverage numerical solvers for ordinary and partial differential equations to elucidate the fundamental mechanisms underlying both pathophysiology and device-based treatments. -->
 
 <table class="pub_table">
 <tr>
