@@ -23,7 +23,7 @@ We are interested in adapting diffusion models to controllably generate anatomic
                 <i>arXiv preprint, 2025</i><br />
             </div>
             <a href="https://arxiv.org/abs/2509.08015">Paper</a> | <a href="/files/cardiocomposer_arxiv.pdf">Download Here</a><br />
-            <small style="color: #000; margin-top: 5px; display: block;">We propose a generalized compositional framework for guiding unconditional diffusion models of human anatomy using interpretable ellipsoidal primitives embedded in 3D space.</small>
+            <span style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">We propose a generalized compositional framework for guiding unconditional diffusion models of human anatomy using interpretable ellipsoidal primitives embedded in 3D space.</span>
         </td>
         <td class="pub_td1">
             <div class="teaser_img_div">
@@ -43,7 +43,7 @@ We are interested in adapting diffusion models to controllably generate anatomic
                 <i>ECCV 2024</i><br />
             </div>
             <a href="https://arxiv.org/abs/2407.15631">Paper</a> | <a href="/files/morphoskel_diffusion.pdf">Download Here</a> | <a href="https://github.com/kkadry/Morphoskel-Diffusion">Code</a><br />
-            <small style="color: #000; margin-top: 5px; display: block;">We introduce a family of diffusion model conditioning and guidance techniques based on geometric and skeletal constraints that can control generative models of multi-tissue coronary anatomy.</small>
+            <small style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">We introduce a family of diffusion model conditioning and guidance techniques based on geometric and skeletal constraints that can control generative models of multi-tissue coronary anatomy.</small>
         </td>
         <td class="pub_td1">
             <div class="teaser_img_div">
@@ -63,7 +63,7 @@ We are interested in adapting diffusion models to controllably generate anatomic
                 <i>npj Digital Medicine</i>, 2024<br />
             </div>
             <a href="https://www.nature.com/articles/s41746-024-01332-0">Paper</a> | <a href="/files/diffusion_editing.pdf">Download Here</a><br />
-            <small style="color: #000; margin-top: 5px; display: block;">We develop a framework for studying how the natural editing capabilities of diffusion models can edit anatomic digital twins to create 'digital siblings', potentially revealing the effect of subtle anatomic variation on simulated device outcomes.</small>
+            <small style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">We develop a framework for studying how the natural editing capabilities of diffusion models can edit anatomic digital twins to create 'digital siblings', potentially revealing the effect of subtle anatomic variation on simulated device outcomes.</small>
         </td>
         <td class="pub_td1">
             <div class="teaser_img_div">
@@ -90,7 +90,7 @@ We are interested in automating this process by combining deep learning, compute
             <i>IEEE Transactions in Medical Imaging</i>, 2024<br />
         </div>
         <a href="https://ieeexplore.ieee.org/abstract/document/10706932">Paper</a> | <a href="/files/coreg_paper.pdf">Download Here</a><br />
-        <small style="color: #000; margin-top: 5px; display: block;">We introduce a geometric multimodal alignment algorithm where a set of virtual catheter frames are bent, twisted, and stretched to align the tissue morphology found in computed tomography and intravascular images.</small>
+        <small style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">We introduce a geometric multimodal alignment algorithm where a set of virtual catheter frames are bent, twisted, and stretched to align the tissue morphology found in computed tomography and intravascular images.</small>
     </td>
     <td class="pub_td1">
         <div class="teaser_img_div">
@@ -110,7 +110,7 @@ We are interested in automating this process by combining deep learning, compute
             <i>Computers in Biology and Medicine</i>, 2023<br />
         </div>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482523008065">Paper</a> | <a href="/files/Fully_Automated_OCT.pdf">Download Here</a><br />
-        <small style="color: #000; margin-top: 5px; display: block;">We leverage morphological processing and multi-material meshing techniques to fully automate the process of creating simulation-ready digital twins for coronary artery biomechanics simulations.</small>
+        <small style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">We leverage morphological processing and multi-material meshing techniques to fully automate the process of creating simulation-ready digital twins for coronary artery biomechanics simulations.</small>
     </td>
     <td class="pub_td1">
         <div class="teaser_img_div">
@@ -129,7 +129,7 @@ We are interested in automating this process by combining deep learning, compute
             <i>Royal Society Interface</i>, 2021<br />
         </div>
         <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2021.0436">Paper</a> | <a href="/files/Platform.pdf">Download Here</a><br />
-        <small style="color: #000; margin-top: 5px; display: block;">We leverage convolutional neural networks and physics-based adaptive meshing to create simulation ready models of coronary biomechanics from intravascular images.</small>
+        <small style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">We leverage convolutional neural networks and physics-based adaptive meshing to create simulation ready models of coronary biomechanics from intravascular images.</small>
     </td>
     <td class="pub_td1">
         <div class="teaser_img_div">
@@ -157,7 +157,7 @@ We leverage numerical solvers for ordinary and partial differential equations to
             <i>Biomechanics and Modeling in Mechanobiology</i>, 2025<br />
         </div>
         <a href="https://link.springer.com/article/10.1007/s10237-024-01923-6">Paper</a> | <a href="/files/IVL_paper.pdf">Download Here</a><br />
-        <small style="color: #000; margin-top: 5px; display: block;">We leverage computational mechanics simulations and parametric modelling to study the effect of calcium fractures induced by intravascular lithotripsy on stent deployment.</small>
+        <small style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">We leverage computational mechanics simulations and parametric modelling to study the effect of calcium fractures induced by intravascular lithotripsy on stent deployment.</small>
     </td>
     <td class="pub_td1">
         <div class="teaser_img_div">
@@ -177,7 +177,7 @@ We leverage numerical solvers for ordinary and partial differential equations to
             <i>American Journal of Physiology-Heart and Circulatory Physiology</i>, 2020<br />
         </div>
         <a href="https://journals.physiology.org/doi/full/10.1152/ajpheart.00482.2020">Paper</a> | <a href="/files/Diastolic_Dysfunction.pdf">Download Here</a><br />
-        <small style="color: #000; margin-top: 5px; display: block;">We use a 0D-1D coupled model of the cardiovascular system to reveal how electromechanical delay and passive stiffness of the left ventricular wall affect the hemodynamic signatures of diastolic dysfunction.</small>
+        <small style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">We use a 0D-1D coupled model of the cardiovascular system to reveal how electromechanical delay and passive stiffness of the left ventricular wall affect the hemodynamic signatures of diastolic dysfunction.</small>
     </td>
     <td class="pub_td1">
         <div class="teaser_img_div">
