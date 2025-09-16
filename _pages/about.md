@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-I am a fifth-year PhD student in Medical Engineering and Medical Physics at the Harvard-MIT Program in Health Sciences and Technology, specializing in computer science. I am advised by [Elazer Edelman](https://en.wikipedia.org/wiki/Elazer_R._Edelman) and [Farhad Nezami](https://nezamilab.bwh.harvard.edu/). I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/).
+<!-- in Medical Engineering and Medical Physics at the Harvard-MIT Program in Health Sciences and Technology, specializing in computer science -->
+I am a 5th-year PhD student at MIT, working at the intersection of machine learning and computational simulation to improve cardiovascular health. I am advised by [Elazer Edelman](https://en.wikipedia.org/wiki/Elazer_R._Edelman) and [Farhad Nezami](https://nezamilab.bwh.harvard.edu/). I have a M.Sc in Bioengineering from [EPFL](https://www.epfl.ch/schools/sv/) and dual bachelor's degree in Mechanical Engineering and Physics from the [American University in Cairo](https://www.aucegypt.edu/).
 
 I have previously interned at [Calico](https://www.calicolabs.com/), where I developed protein generative models, [General Electric Healthcare](https://www.gehealthcare.com/), where I worked on generative models for medical imaging; and [Novostia](https://www.novostia.com/), where I focused on medical device development.
  
