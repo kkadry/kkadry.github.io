@@ -10,11 +10,29 @@ table.pub_table td.pub_td2 { padding-top: 8px; }
 </style>
 
 ## Generative Diffusion Models of Cardiovascular Anatomy
-<!-- Simulation-based testing of cardiovascular medical devices is increasingly reliant on patient-specific anatomic geometry to assess device safety and efficacy. 
-However, it is difficult to disentangle the effect of geometric features on simulated outcomes due to a lack of controllability.
-We are interested in adapting diffusion models to controllably generate anatomic structures that are informative under device simulation. -->
+
 
 <table class="pub_table">
+    <tr>
+        <td class="pub_td2">
+            <b>Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models</b><br />
+            <div class='paper_metadata'>
+                <b>Karim Kadry</b>*, Abdalla Abdelwahed*, Shoaib Goraya, Ajay Manicka, Naravich Chutisilp, Farhad R. Nezami, Elazer R. Edelman<br />
+                <i>arXiv preprint, 2025</i><br />
+            </div>
+            <a href="/files/Anatomica_manuscript.pdf">Paper</a> | <a href="/files/Anatomica_manuscript.pdf">Download Here</a> | <a href="/files/Anatomica_Teaser.pdf">Teaser</a><br />
+            <!-- <span style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">Anatomica composes differentiable geometric moment penalties and persistent homology constraints inside cuboidal control domains to steer latent diffusion samples, enabling localized geo-topological control over multi-class anatomical voxel maps for synthetic dataset design.</span> -->
+        </td>
+        <td class="pub_td1">
+            <div class="teaser_img_div">
+                <a href="/files/Anatomica_Teaser.pdf">
+                    <embed class="teaser_img" src="/files/Anatomica_Teaser.pdf#page=1" type="application/pdf" />
+                </a>
+            </div>
+        </td>
+    </tr>
+    {% include table-space.html %}
+
     <tr>
         <td class="pub_td2">
             <b>CardioComposer: Flexible and Compositional Anatomical Structure Generation with Disentangled Geometric Guidance</b><br />
@@ -22,7 +40,7 @@ We are interested in adapting diffusion models to controllably generate anatomic
                 <b>Karim Kadry</b>, Shoaib Goraya, Ajay Manicka, Abdalla Abdelwahed, Farhad R. Nezami, Elazer R. Edelman<br />
                 <i>arXiv preprint, 2025</i><br />
             </div>
-            <a href="https://arxiv.org/abs/2509.08015">Paper</a> | <a href="/files/cardiocomposer_arxiv.pdf">Download Here</a><br />
+            <a href="https://arxiv.org/abs/2509.08015">Paper</a> | <a href="/files/CardioComposer_ArxivV2.pdf">Download Here</a><br />
             <!-- <span style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">We propose a generalized compositional framework for guiding unconditional diffusion models of human anatomy using interpretable ellipsoidal primitives embedded in 3D space.</span> -->
         </td>
         <td class="pub_td1">
