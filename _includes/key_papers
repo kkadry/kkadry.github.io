@@ -38,7 +38,7 @@ table.pub_table td.pub_td2 { padding-top: 8px; }
             <b>CardioComposer: Flexible and Compositional Anatomical Structure Generation with Disentangled Geometric Guidance</b><br />
             <div class='paper_metadata'>
                 <b>Karim Kadry</b>, Shoaib Goraya, Ajay Manicka, Abdalla Abdelwahed, Farhad R. Nezami, Elazer R. Edelman<br />
-                <i>arXiv preprint, 2025</i><br />
+                <i>ICLR 2026</i><br />
             </div>
             <a href="https://arxiv.org/abs/2509.08015">Paper</a> | <a href="/files/CardioComposer_ArxivV2.pdf">Download Here</a><br />
             <!-- <span style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">We propose a generalized compositional framework for guiding unconditional diffusion models of human anatomy using interpretable ellipsoidal primitives embedded in 3D space.</span> -->
