@@ -18,7 +18,7 @@ table.pub_table td.pub_td2 { padding-top: 8px; }
             <b>Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models</b><br />
             <div class='paper_metadata'>
                 <b>Karim Kadry</b>*, Abdalla Abdelwahed*, Shoaib Goraya, Ajay Manicka, Naravich Chutisilp, Farhad R. Nezami, Elazer R. Edelman<br />
-                <i>arXiv preprint</i><br />
+                <i>CVPR 2026</i><br />
             </div>
             <a href="/files/Anatomica_manuscript.pdf">Paper</a> | <a href="/files/Anatomica_manuscript.pdf">Download Here</a><br />
             <!-- <span style="color: #000; margin-top: 5px; display: block; font-size: 13pt;">Anatomica composes differentiable geometric moment penalties and persistent homology constraints inside cuboidal control domains to steer latent diffusion samples, enabling localized geo-topological control over multi-class anatomical voxel maps for synthetic dataset design.</span> -->
